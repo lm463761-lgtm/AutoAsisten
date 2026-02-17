@@ -1,2 +1,1 @@
-# AutoAsisten
-asistente para autos 
+# Welcome to your Dyad app
